@@ -1,0 +1,4 @@
+#Fri May 14 04:04:06 KST 2021
+base.0=/Users/chan/AndroidStudioProjects/Bts_lecture/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

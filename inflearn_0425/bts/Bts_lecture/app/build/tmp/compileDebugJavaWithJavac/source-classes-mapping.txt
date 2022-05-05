@@ -1,0 +1,2 @@
+com/bokchi/bts_lecture/BuildConfig.java
+ com.bokchi.bts_lecture.BuildConfig
