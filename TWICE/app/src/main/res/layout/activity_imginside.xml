@@ -4,16 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".splashActivity">
+    tools:context=".IMGInsideActivity">
 
     <ImageView
-        android:layout_margin="20dp"
-        android:padding="20dp"
-        android:src="@drawable/splash"
+        android:id="@+id/imageId"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"
+        android:src="@drawable/member_1">
+
+    </ImageView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
-<!--
- margin 은 바깥쪽으로 민다.
- padding 은 안쪽으로 민다.
- -->
