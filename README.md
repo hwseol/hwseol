@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 (삼성전자, Android Mobile App 개발 및 Web App (VUE) / LLM(Chat GPT, Gemini) 기능 연동)<br>
 
 <h3>🤗관심사</h3>
-안드로이드 개발자입니다. (Kotlin)
-LLM 기능 개발 경력이 있으며 VUE도 일부분 경험 하였습니다.
-AWS 는 현업에서, SPRING BOOT는 개인 프로젝트로 경험이 있습니다.
+안드로이드 경력자 입니다.(Kotlin) <br>
+LLM/VUE/AWS/SPRING BOOT 관련 업무도 진행 경험이 있습니다.<br>
 
 <h3>🛠사용언어</h3>
 <div>
