@@ -11,7 +11,7 @@
 
 ## Summary
 
-- Android 개발 경력 9년 8개월. 차량 인포테인먼트, 웨어러블 로봇, 제조로봇 등 하드웨어 연동 Android 앱의 양산 및 운영 담당
+- Android 개발 경력 . 차량 인포테인먼트, 웨어러블 로봇, 제조로봇 등 하드웨어 연동 Android 앱의 양산 및 운영 담당
 - 선행 개발, 양산, 정기 업데이트, VOC 대응까지 제품 전 주기 수행
 - 개인 프로젝트로 Android 앱 2종 기획·개발·배포 (Kotlin, Jetpack Compose, FastAPI)
 
